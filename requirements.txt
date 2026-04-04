@@ -1,0 +1,2 @@
+nova-act[cli]
+python-dotenv
