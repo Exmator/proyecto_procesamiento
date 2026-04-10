@@ -23,7 +23,7 @@ A partir del procesamiento de múltiples conjuntos de datos con Apache Spark, se
 | Gestión del Riesgo Municipal (IMRC) | UNGRD |
 | COVID-19 por municipio y departamento | INS (Web Scraping) |
 
-### ⚠️ Dataset externo — Resultados Saber 11
+### Dataset externo — Resultados Saber 11
 
 Los resultados de la prueba Saber 11° no se encuentran en este repositorio debido al tamaño del archivo. Pueden descargarse directamente desde el portal de datos abiertos del gobierno:
 
