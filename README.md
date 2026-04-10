@@ -27,7 +27,7 @@ A partir del procesamiento de múltiples conjuntos de datos con Apache Spark, se
 
 Los resultados de la prueba Saber 11° no se encuentran en este repositorio debido al tamaño del archivo. Pueden descargarse directamente desde el portal de datos abiertos del gobierno:
 
-🔗 [Resultados Únicos Saber 11 — datos.gov.co](https://www.datos.gov.co/Educaci-n/Resultados-nicos-Saber-11/kgxf-xxbe/about_data)
+[Resultados Únicos Saber 11 — datos.gov.co](https://www.datos.gov.co/Educaci-n/Resultados-nicos-Saber-11/kgxf-xxbe/about_data)
 
 ## Tecnologías utilizadas
 - Apache Spark (PySpark)
